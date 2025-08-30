@@ -1,0 +1,1444 @@
+{
+  "timestamp": "2025-08-30T23:03:00.811628",
+  "source": "hyperliquid_api",
+  "total_assets": 205,
+  "assets": {
+    "BTC": {
+      "name": "BTC",
+      "szDecimals": 5,
+      "maxLeverage": 40,
+      "onlyIsolated": false
+    },
+    "ETH": {
+      "name": "ETH",
+      "szDecimals": 4,
+      "maxLeverage": 25,
+      "onlyIsolated": false
+    },
+    "ATOM": {
+      "name": "ATOM",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "MATIC": {
+      "name": "MATIC",
+      "szDecimals": 1,
+      "maxLeverage": 20,
+      "onlyIsolated": false
+    },
+    "DYDX": {
+      "name": "DYDX",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "SOL": {
+      "name": "SOL",
+      "szDecimals": 2,
+      "maxLeverage": 20,
+      "onlyIsolated": false
+    },
+    "AVAX": {
+      "name": "AVAX",
+      "szDecimals": 2,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "BNB": {
+      "name": "BNB",
+      "szDecimals": 3,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "APE": {
+      "name": "APE",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "OP": {
+      "name": "OP",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "LTC": {
+      "name": "LTC",
+      "szDecimals": 2,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "ARB": {
+      "name": "ARB",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "DOGE": {
+      "name": "DOGE",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "INJ": {
+      "name": "INJ",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "SUI": {
+      "name": "SUI",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "kPEPE": {
+      "name": "kPEPE",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "CRV": {
+      "name": "CRV",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "LDO": {
+      "name": "LDO",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "LINK": {
+      "name": "LINK",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "STX": {
+      "name": "STX",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "RNDR": {
+      "name": "RNDR",
+      "szDecimals": 1,
+      "maxLeverage": 20,
+      "onlyIsolated": false
+    },
+    "CFX": {
+      "name": "CFX",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "FTM": {
+      "name": "FTM",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "GMX": {
+      "name": "GMX",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "SNX": {
+      "name": "SNX",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "XRP": {
+      "name": "XRP",
+      "szDecimals": 0,
+      "maxLeverage": 20,
+      "onlyIsolated": false
+    },
+    "BCH": {
+      "name": "BCH",
+      "szDecimals": 3,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "APT": {
+      "name": "APT",
+      "szDecimals": 2,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "AAVE": {
+      "name": "AAVE",
+      "szDecimals": 2,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "COMP": {
+      "name": "COMP",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "MKR": {
+      "name": "MKR",
+      "szDecimals": 4,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "WLD": {
+      "name": "WLD",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "FXS": {
+      "name": "FXS",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "HPOS": {
+      "name": "HPOS",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "RLB": {
+      "name": "RLB",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "UNIBOT": {
+      "name": "UNIBOT",
+      "szDecimals": 3,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "YGG": {
+      "name": "YGG",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "TRX": {
+      "name": "TRX",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "kSHIB": {
+      "name": "kSHIB",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "UNI": {
+      "name": "UNI",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "SEI": {
+      "name": "SEI",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "RUNE": {
+      "name": "RUNE",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "OX": {
+      "name": "OX",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "FRIEND": {
+      "name": "FRIEND",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "SHIA": {
+      "name": "SHIA",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "CYBER": {
+      "name": "CYBER",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ZRO": {
+      "name": "ZRO",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "BLZ": {
+      "name": "BLZ",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "DOT": {
+      "name": "DOT",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "BANANA": {
+      "name": "BANANA",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "TRB": {
+      "name": "TRB",
+      "szDecimals": 2,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "FTT": {
+      "name": "FTT",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "LOOM": {
+      "name": "LOOM",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "OGN": {
+      "name": "OGN",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "RDNT": {
+      "name": "RDNT",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ARK": {
+      "name": "ARK",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "BNT": {
+      "name": "BNT",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "CANTO": {
+      "name": "CANTO",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "REQ": {
+      "name": "REQ",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "BIGTIME": {
+      "name": "BIGTIME",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "KAS": {
+      "name": "KAS",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ORBS": {
+      "name": "ORBS",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "BLUR": {
+      "name": "BLUR",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "TIA": {
+      "name": "TIA",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "BSV": {
+      "name": "BSV",
+      "szDecimals": 2,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ADA": {
+      "name": "ADA",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "TON": {
+      "name": "TON",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "MINA": {
+      "name": "MINA",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "POLYX": {
+      "name": "POLYX",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "GAS": {
+      "name": "GAS",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "PENDLE": {
+      "name": "PENDLE",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "STG": {
+      "name": "STG",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "FET": {
+      "name": "FET",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "STRAX": {
+      "name": "STRAX",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "NEAR": {
+      "name": "NEAR",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "MEME": {
+      "name": "MEME",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ORDI": {
+      "name": "ORDI",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "BADGER": {
+      "name": "BADGER",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "NEO": {
+      "name": "NEO",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ZEN": {
+      "name": "ZEN",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "FIL": {
+      "name": "FIL",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "PYTH": {
+      "name": "PYTH",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "SUSHI": {
+      "name": "SUSHI",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ILV": {
+      "name": "ILV",
+      "szDecimals": 2,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "IMX": {
+      "name": "IMX",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "kBONK": {
+      "name": "kBONK",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "GMT": {
+      "name": "GMT",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "SUPER": {
+      "name": "SUPER",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "USTC": {
+      "name": "USTC",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "NFTI": {
+      "name": "NFTI",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "JUP": {
+      "name": "JUP",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "kLUNC": {
+      "name": "kLUNC",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "RSR": {
+      "name": "RSR",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "GALA": {
+      "name": "GALA",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "JTO": {
+      "name": "JTO",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "NTRN": {
+      "name": "NTRN",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ACE": {
+      "name": "ACE",
+      "szDecimals": 2,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "MAV": {
+      "name": "MAV",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "WIF": {
+      "name": "WIF",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "CAKE": {
+      "name": "CAKE",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "PEOPLE": {
+      "name": "PEOPLE",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ENS": {
+      "name": "ENS",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ETC": {
+      "name": "ETC",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "XAI": {
+      "name": "XAI",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "MANTA": {
+      "name": "MANTA",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "UMA": {
+      "name": "UMA",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ONDO": {
+      "name": "ONDO",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "ALT": {
+      "name": "ALT",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ZETA": {
+      "name": "ZETA",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "DYM": {
+      "name": "DYM",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "MAVIA": {
+      "name": "MAVIA",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "W": {
+      "name": "W",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "PANDORA": {
+      "name": "PANDORA",
+      "szDecimals": 5,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "STRK": {
+      "name": "STRK",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "PIXEL": {
+      "name": "PIXEL",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "AI": {
+      "name": "AI",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "TAO": {
+      "name": "TAO",
+      "szDecimals": 3,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "AR": {
+      "name": "AR",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "MYRO": {
+      "name": "MYRO",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "kFLOKI": {
+      "name": "kFLOKI",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "BOME": {
+      "name": "BOME",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ETHFI": {
+      "name": "ETHFI",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ENA": {
+      "name": "ENA",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "MNT": {
+      "name": "MNT",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "TNSR": {
+      "name": "TNSR",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "SAGA": {
+      "name": "SAGA",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "MERL": {
+      "name": "MERL",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "HBAR": {
+      "name": "HBAR",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "POPCAT": {
+      "name": "POPCAT",
+      "szDecimals": 0,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "OMNI": {
+      "name": "OMNI",
+      "szDecimals": 2,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "EIGEN": {
+      "name": "EIGEN",
+      "szDecimals": 2,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "REZ": {
+      "name": "REZ",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "NOT": {
+      "name": "NOT",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "TURBO": {
+      "name": "TURBO",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "BRETT": {
+      "name": "BRETT",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "IO": {
+      "name": "IO",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ZK": {
+      "name": "ZK",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "BLAST": {
+      "name": "BLAST",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "LISTA": {
+      "name": "LISTA",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "MEW": {
+      "name": "MEW",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "RENDER": {
+      "name": "RENDER",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "kDOGS": {
+      "name": "kDOGS",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "POL": {
+      "name": "POL",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "CATI": {
+      "name": "CATI",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "CELO": {
+      "name": "CELO",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "HMSTR": {
+      "name": "HMSTR",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "SCR": {
+      "name": "SCR",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "NEIROETH": {
+      "name": "NEIROETH",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "kNEIRO": {
+      "name": "kNEIRO",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "GOAT": {
+      "name": "GOAT",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "MOODENG": {
+      "name": "MOODENG",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "GRASS": {
+      "name": "GRASS",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "PURR": {
+      "name": "PURR",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "PNUT": {
+      "name": "PNUT",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "XLM": {
+      "name": "XLM",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "CHILLGUY": {
+      "name": "CHILLGUY",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "SAND": {
+      "name": "SAND",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "IOTA": {
+      "name": "IOTA",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ALGO": {
+      "name": "ALGO",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "HYPE": {
+      "name": "HYPE",
+      "szDecimals": 2,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "ME": {
+      "name": "ME",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "MOVE": {
+      "name": "MOVE",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "VIRTUAL": {
+      "name": "VIRTUAL",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "PENGU": {
+      "name": "PENGU",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "USUAL": {
+      "name": "USUAL",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "FARTCOIN": {
+      "name": "FARTCOIN",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "AI16Z": {
+      "name": "AI16Z",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "AIXBT": {
+      "name": "AIXBT",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ZEREBRO": {
+      "name": "ZEREBRO",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "BIO": {
+      "name": "BIO",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "GRIFFAIN": {
+      "name": "GRIFFAIN",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "SPX": {
+      "name": "SPX",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "S": {
+      "name": "S",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "MORPHO": {
+      "name": "MORPHO",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "TRUMP": {
+      "name": "TRUMP",
+      "szDecimals": 1,
+      "maxLeverage": 10,
+      "onlyIsolated": false
+    },
+    "MELANIA": {
+      "name": "MELANIA",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "ANIME": {
+      "name": "ANIME",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "VINE": {
+      "name": "VINE",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "VVV": {
+      "name": "VVV",
+      "szDecimals": 2,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "JELLY": {
+      "name": "JELLY",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "BERA": {
+      "name": "BERA",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "TST": {
+      "name": "TST",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "LAYER": {
+      "name": "LAYER",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "IP": {
+      "name": "IP",
+      "szDecimals": 1,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "OM": {
+      "name": "OM",
+      "szDecimals": 1,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "KAITO": {
+      "name": "KAITO",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "NIL": {
+      "name": "NIL",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "PAXG": {
+      "name": "PAXG",
+      "szDecimals": 3,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "PROMPT": {
+      "name": "PROMPT",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "BABY": {
+      "name": "BABY",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "WCT": {
+      "name": "WCT",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "HYPER": {
+      "name": "HYPER",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "ZORA": {
+      "name": "ZORA",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "INIT": {
+      "name": "INIT",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "DOOD": {
+      "name": "DOOD",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "LAUNCHCOIN": {
+      "name": "LAUNCHCOIN",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "NXPC": {
+      "name": "NXPC",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "SOPH": {
+      "name": "SOPH",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "RESOLV": {
+      "name": "RESOLV",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "SYRUP": {
+      "name": "SYRUP",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "PUMP": {
+      "name": "PUMP",
+      "szDecimals": 0,
+      "maxLeverage": 5,
+      "onlyIsolated": false
+    },
+    "PROVE": {
+      "name": "PROVE",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "YZY": {
+      "name": "YZY",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": false
+    },
+    "XPL": {
+      "name": "XPL",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    },
+    "WLFI": {
+      "name": "WLFI",
+      "szDecimals": 0,
+      "maxLeverage": 3,
+      "onlyIsolated": true
+    }
+  },
+  "asset_list": [
+    "BTC",
+    "ETH",
+    "ATOM",
+    "MATIC",
+    "DYDX",
+    "SOL",
+    "AVAX",
+    "BNB",
+    "APE",
+    "OP",
+    "LTC",
+    "ARB",
+    "DOGE",
+    "INJ",
+    "SUI",
+    "kPEPE",
+    "CRV",
+    "LDO",
+    "LINK",
+    "STX",
+    "RNDR",
+    "CFX",
+    "FTM",
+    "GMX",
+    "SNX",
+    "XRP",
+    "BCH",
+    "APT",
+    "AAVE",
+    "COMP",
+    "MKR",
+    "WLD",
+    "FXS",
+    "HPOS",
+    "RLB",
+    "UNIBOT",
+    "YGG",
+    "TRX",
+    "kSHIB",
+    "UNI",
+    "SEI",
+    "RUNE",
+    "OX",
+    "FRIEND",
+    "SHIA",
+    "CYBER",
+    "ZRO",
+    "BLZ",
+    "DOT",
+    "BANANA",
+    "TRB",
+    "FTT",
+    "LOOM",
+    "OGN",
+    "RDNT",
+    "ARK",
+    "BNT",
+    "CANTO",
+    "REQ",
+    "BIGTIME",
+    "KAS",
+    "ORBS",
+    "BLUR",
+    "TIA",
+    "BSV",
+    "ADA",
+    "TON",
+    "MINA",
+    "POLYX",
+    "GAS",
+    "PENDLE",
+    "STG",
+    "FET",
+    "STRAX",
+    "NEAR",
+    "MEME",
+    "ORDI",
+    "BADGER",
+    "NEO",
+    "ZEN",
+    "FIL",
+    "PYTH",
+    "SUSHI",
+    "ILV",
+    "IMX",
+    "kBONK",
+    "GMT",
+    "SUPER",
+    "USTC",
+    "NFTI",
+    "JUP",
+    "kLUNC",
+    "RSR",
+    "GALA",
+    "JTO",
+    "NTRN",
+    "ACE",
+    "MAV",
+    "WIF",
+    "CAKE",
+    "PEOPLE",
+    "ENS",
+    "ETC",
+    "XAI",
+    "MANTA",
+    "UMA",
+    "ONDO",
+    "ALT",
+    "ZETA",
+    "DYM",
+    "MAVIA",
+    "W",
+    "PANDORA",
+    "STRK",
+    "PIXEL",
+    "AI",
+    "TAO",
+    "AR",
+    "MYRO",
+    "kFLOKI",
+    "BOME",
+    "ETHFI",
+    "ENA",
+    "MNT",
+    "TNSR",
+    "SAGA",
+    "MERL",
+    "HBAR",
+    "POPCAT",
+    "OMNI",
+    "EIGEN",
+    "REZ",
+    "NOT",
+    "TURBO",
+    "BRETT",
+    "IO",
+    "ZK",
+    "BLAST",
+    "LISTA",
+    "MEW",
+    "RENDER",
+    "kDOGS",
+    "POL",
+    "CATI",
+    "CELO",
+    "HMSTR",
+    "SCR",
+    "NEIROETH",
+    "kNEIRO",
+    "GOAT",
+    "MOODENG",
+    "GRASS",
+    "PURR",
+    "PNUT",
+    "XLM",
+    "CHILLGUY",
+    "SAND",
+    "IOTA",
+    "ALGO",
+    "HYPE",
+    "ME",
+    "MOVE",
+    "VIRTUAL",
+    "PENGU",
+    "USUAL",
+    "FARTCOIN",
+    "AI16Z",
+    "AIXBT",
+    "ZEREBRO",
+    "BIO",
+    "GRIFFAIN",
+    "SPX",
+    "S",
+    "MORPHO",
+    "TRUMP",
+    "MELANIA",
+    "ANIME",
+    "VINE",
+    "VVV",
+    "JELLY",
+    "BERA",
+    "TST",
+    "LAYER",
+    "IP",
+    "OM",
+    "KAITO",
+    "NIL",
+    "PAXG",
+    "PROMPT",
+    "BABY",
+    "WCT",
+    "HYPER",
+    "ZORA",
+    "INIT",
+    "DOOD",
+    "LAUNCHCOIN",
+    "NXPC",
+    "SOPH",
+    "RESOLV",
+    "SYRUP",
+    "PUMP",
+    "PROVE",
+    "YZY",
+    "XPL",
+    "WLFI"
+  ]
+}
